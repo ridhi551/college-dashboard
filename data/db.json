@@ -1,0 +1,32 @@
+{
+    "teachers":[
+        {
+            "name":"Dr. Jyoti Mahajan",
+            "sem4": "Java",
+            "sem6":"Micro-controllers",
+            "id": 1
+            
+        },
+        {
+            
+            "name":"Dr. Bhawana Sharma",
+            "sem4": "Digital Logic",
+            "sem6":"Compiler Design",
+            "id": 2
+        },
+        {
+            
+            "name":"Mr. Akhil Sharma",
+            "sem4": "DBMS",
+            "sem6":"OS",
+            "id": 3
+        },
+        {
+            
+            "name":"Dr. Sheetal Gandotra",
+            "sem4": "DSA",
+            "sem6":"ADA",
+            "id": 4
+        }
+    ]
+}
